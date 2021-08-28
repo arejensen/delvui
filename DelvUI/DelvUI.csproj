@@ -88,12 +88,14 @@
       <Compile Include="Extensions.cs" />
       <Compile Include="GameStructs\AddonCastBar.cs" />
       <Compile Include="Interface\BardHudWindow.cs" />
+      <Compile Include="Interface\BlackMageHudWindow.cs" />
       <Compile Include="Interface\ConfigurationWindow.cs" />
       <Compile Include="Interface\DancerHudWindow.cs" />
       <Compile Include="Interface\DarkKnightHudWindow.cs" />
       <Compile Include="Interface\GunbreakerHudWindow.cs" />
       <Compile Include="Interface\HudWindow.cs" />
       <Compile Include="Interface\MachinistHudWindow.cs" />
+      <Compile Include="Interface\MonkHudWindow.cs" />
       <Compile Include="Interface\PaladinHudWindow.cs" />
       <Compile Include="Interface\RedMageHudWindow.cs" />
       <Compile Include="Interface\SamuraiHudWindow.cs" />
